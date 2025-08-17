@@ -11,7 +11,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debarghya-fouzdar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](inkedin.com/in/debarghya-fouzdar-7426ab261/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Debarghya11) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/) 
