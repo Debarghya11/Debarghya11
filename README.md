@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 # 💫 About Me:
 🎓 I'm **Debarghya Fouzdar**, a B.Tech graduate in **Electronics & Communication Engineering**.<br>
